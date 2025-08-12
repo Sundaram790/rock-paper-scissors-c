@@ -19,5 +19,5 @@ Screenshots📸
  Gameplay Example:
 ![Game Screenshot](https://github.com/Sundaram790/rock-paper-scissors-c/blob/main/Screenshot%20001.png?raw=true)
 ![Game Screenshot](https://github.com/Sundaram790/rock-paper-scissors-c/blob/main/Screenshot%20002.png?raw=true)
-![Game Screenshot]()
+![Game Screenshot](https://github.com/Sundaram790/rock-paper-scissors-c/blob/main/Screenshot%20003.png?raw=true)
 ![Game Screenshot]()
