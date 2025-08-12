@@ -1,4 +1,4 @@
-Rock Paper Scissors Game 🎮
+😄😁Rock Paper Scissors Game 🎮
 
 A simple Rock, Paper, Scissors game written in **C**.  
 Play against the computer, keep score across multiple rounds, and enjoy classic gameplay using `rand()` for random choices and `switch-case` for decision logic.
